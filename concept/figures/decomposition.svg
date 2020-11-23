@@ -1,0 +1,3440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="decomposition.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5032"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5030"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3163"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3161"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1547"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1545"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1290"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1547-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1545-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1547-2-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1545-6-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="4925.8301"
+     inkscape:cy="-778.5126"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="305"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5580"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1179.4678,1154.7273 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         id="path3553-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         r="3.4149537"
+         cy="1157.2338"
+         cx="1075.4423"
+         id="path4225-9"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         id="text1249-5-6-3-9"
+         y="1156.9292"
+         x="1050.1608"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333333px;line-height:9.61509037px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28205019"
+         xml:space="preserve"><tspan
+           id="tspan1259-2-2-2-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28169918px;font-family:'Dutch801 Rm BT';-inkscape-font-specification:'Dutch801 Rm BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28205019"
+           y="1156.9292"
+           x="1050.1608"
+           sodipodi:role="line">v(p)</tspan></text>
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3571-6-0"
+         cx="-94.84333"
+         cy="1584.17"
+         r="1.3444184"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3571-6-8"
+         cx="-1528.3273"
+         cy="-283.15897"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3571-6-9"
+         cx="-1504.1765"
+         cy="-266.5864"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3571-6-3"
+         cx="-1512.8812"
+         cy="-236.12556"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3571-6-1"
+         cx="-1560.1974"
+         cy="-213.71567"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3571-6-5"
+         cx="-1559.3582"
+         cy="-198.00772"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3571-6-4"
+         cx="-1547.3871"
+         cy="-178.56522"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3571-6-97"
+         cx="-1566.8041"
+         cy="-143.98495"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3571-6-83"
+         cx="-1591.0869"
+         cy="-132.04631"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3571-6-7"
+         cx="-1620.3284"
+         cy="-146.52788"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3571-6-15"
+         cx="-1641.9153"
+         cy="-175.71596"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3571-6-43"
+         cx="-1635.4407"
+         cy="-216.93544"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3571-6-91"
+         cx="-1602.9399"
+         cy="-248.35837"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3573-2-2-6"
+         cx="-1561.1271"
+         cy="-242.35207"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3573-2-2-5"
+         cx="-1595.5333"
+         cy="-208.4626"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3573-2-2-9"
+         cx="-1572.0131"
+         cy="-168.28174"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+    </g>
+    <g
+       id="g5558"
+       transform="translate(-16.056834,-4.7783)"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5495"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5497"
+         cx="1268.9661"
+         cy="1162.0121"
+         r="3.4149537" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333333px;line-height:10.40712261px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30528378"
+         x="1242.1013"
+         y="1161.4697"
+         id="text5501"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72"><tspan
+           sodipodi:role="line"
+           x="1242.1013"
+           y="1161.4697"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.21101665px;font-family:'Dutch801 Rm BT';-inkscape-font-specification:'Dutch801 Rm BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.30528378"
+           id="tspan5499">v(p)</tspan></text>
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         r="1.3444184"
+         cy="1707.799"
+         cx="-243.80705"
+         id="circle5503"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-167.0323"
+         cx="-1683.2107"
+         id="circle5505"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-150.45973"
+         cx="-1659.0599"
+         id="circle5507"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-119.99889"
+         cx="-1667.7646"
+         id="circle5509"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-97.589005"
+         cx="-1715.0808"
+         id="circle5511"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-81.881058"
+         cx="-1714.2416"
+         id="circle5513"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-62.438557"
+         cx="-1702.2705"
+         id="circle5515"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-27.858278"
+         cx="-1721.6875"
+         id="circle5517"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-15.919634"
+         cx="-1745.9703"
+         id="circle5519"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-30.401201"
+         cx="-1775.2118"
+         id="circle5521"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-59.589283"
+         cx="-1796.7987"
+         id="circle5523"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-100.80876"
+         cx="-1790.3241"
+         id="circle5525"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-132.2317"
+         cx="-1757.8234"
+         id="circle5527"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-126.22539"
+         cx="-1716.0105"
+         id="circle5529"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-92.335922"
+         cx="-1750.4167"
+         id="circle5531"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-52.155079"
+         cx="-1726.8965"
+         id="circle5533"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5535"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 z"
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5497-2"
+         cx="1298.0151"
+         cy="1192.5876"
+         r="3.4149537" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.28624344px;line-height:9.82730961px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28827545"
+         x="1300.2946"
+         y="1204.2079"
+         id="text5501-8"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72"><tspan
+           sodipodi:role="line"
+           x="1300.2946"
+           y="1204.2079"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.53070164px;font-family:'Dutch801 Rm BT';-inkscape-font-specification:'Dutch801 Rm BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28827545"
+           id="tspan5499-5">v(p+n)</tspan></text>
+    </g>
+    <g
+       transform="translate(162.47921,-4.7783)"
+       id="g5624"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         id="path5582"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         r="3.4149537"
+         cy="1162.0121"
+         cx="1268.9661"
+         id="circle5584"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5590"
+         cx="-243.80705"
+         cy="1707.799"
+         r="1.3444184"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5592"
+         cx="-1683.2107"
+         cy="-167.0323"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5594"
+         cx="-1659.0599"
+         cy="-150.45973"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5596"
+         cx="-1667.7646"
+         cy="-119.99889"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5598"
+         cx="-1715.0808"
+         cy="-97.589005"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5600"
+         cx="-1714.2416"
+         cy="-81.881058"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5602"
+         cx="-1702.2705"
+         cy="-62.438557"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5604"
+         cx="-1721.6875"
+         cy="-27.858278"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5606"
+         cx="-1745.9703"
+         cy="-15.919634"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5608"
+         cx="-1775.2118"
+         cy="-30.401201"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5610"
+         cx="-1796.7987"
+         cy="-59.589283"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5612"
+         cx="-1790.3241"
+         cy="-100.80876"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5614"
+         cx="-1757.8234"
+         cy="-132.2317"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5616"
+         cx="-1716.0105"
+         cy="-126.22539"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5618"
+         cx="-1750.4167"
+         cy="-92.335922"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5620"
+         cx="-1726.8965"
+         cy="-52.155079"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 30.7236,-28.568 z"
+         id="path5622"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5497-2-5"
+         cx="1343.189"
+         cy="1187.9435"
+         r="3.4149537" />
+    </g>
+    <g
+       id="g5668"
+       transform="translate(-13.969235,128.26932)"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5666"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 z"
+         style="opacity:0.353;fill:#ffd42a;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 30.7236,-28.568 -56.2553,-1.9448 z"
+         id="path5622-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5626"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         r="1.3444184"
+         cy="1707.799"
+         cx="-243.80705"
+         id="circle5634"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-167.0323"
+         cx="-1683.2107"
+         id="circle5636"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-150.45973"
+         cx="-1659.0599"
+         id="circle5638"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-119.99889"
+         cx="-1667.7646"
+         id="circle5640"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-97.589005"
+         cx="-1715.0808"
+         id="circle5642"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-81.881058"
+         cx="-1714.2416"
+         id="circle5644"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-62.438557"
+         cx="-1702.2705"
+         id="circle5646"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-27.858278"
+         cx="-1721.6875"
+         id="circle5648"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-15.919634"
+         cx="-1745.9703"
+         id="circle5650"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-30.401201"
+         cx="-1775.2118"
+         id="circle5652"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-59.589283"
+         cx="-1796.7987"
+         id="circle5654"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-100.80876"
+         cx="-1790.3241"
+         id="circle5656"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-132.2317"
+         cx="-1757.8234"
+         id="circle5658"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-126.22539"
+         cx="-1716.0105"
+         id="circle5660"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-52.155079"
+         cx="-1726.8965"
+         id="circle5664"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1268.598,1161.2435 48.1383,-3.6827 56.2553,1.9448"
+         id="path5670"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-93.176483"
+         cx="-1750.2383"
+         id="circle5656-2"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5497-2-0"
+         cx="1373.5496"
+         cy="1160.0677"
+         r="3.4149537" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6059-8-7"
+         cx="1316.4752"
+         cy="1157.4219"
+         r="3.4149537" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6059-9"
+         cx="1269.0392"
+         cy="1161.9576"
+         r="3.4149537" />
+    </g>
+    <g
+       id="g6099"
+       transform="translate(-199.54443,128.26932)"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path6057"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6059"
+         cx="1268.9661"
+         cy="1162.0121"
+         r="3.4149537" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         r="1.3444184"
+         cy="1707.799"
+         cx="-243.80705"
+         id="circle6065"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-167.0323"
+         cx="-1683.2107"
+         id="circle6067"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-150.45973"
+         cx="-1659.0599"
+         id="circle6069"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-119.99889"
+         cx="-1667.7646"
+         id="circle6071"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-97.589005"
+         cx="-1715.0808"
+         id="circle6073"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-81.881058"
+         cx="-1714.2416"
+         id="circle6075"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-62.438557"
+         cx="-1702.2705"
+         id="circle6077"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-27.858278"
+         cx="-1721.6875"
+         id="circle6079"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-15.919634"
+         cx="-1745.9703"
+         id="circle6081"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-30.401201"
+         cx="-1775.2118"
+         id="circle6083"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-59.589283"
+         cx="-1796.7987"
+         id="circle6085"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-100.80876"
+         cx="-1790.3241"
+         id="circle6087"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-132.2317"
+         cx="-1757.8234"
+         id="circle6089"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-126.22539"
+         cx="-1716.0105"
+         id="circle6091"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-92.335922"
+         cx="-1750.4167"
+         id="circle6093"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-52.155079"
+         cx="-1726.8965"
+         id="circle6095"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6097"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 30.7236,-28.568 1.2733,-37.1847 z"
+         style="opacity:0.353;fill:#ff0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6059-8"
+         cx="1316.842"
+         cy="1156.7605"
+         r="3.4149537" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.37634182px;line-height:12.25223732px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35940853"
+         x="1321.795"
+         y="1156.8298"
+         id="text6063-9"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72"><tspan
+           sodipodi:role="line"
+           x="1321.795"
+           y="1156.8298"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375947px;font-family:'Dutch801 Rm BT';-inkscape-font-specification:'Dutch801 Rm BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.35940853"
+           id="tspan6061-3">v(i)</tspan></text>
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5497-2-7"
+         cx="1373.459"
+         cy="1159.7661"
+         r="3.4149537" />
+    </g>
+    <g
+       transform="translate(168.97124,128.26932)"
+       id="g6230"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         style="opacity:0.353;fill:#ffd42a;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 z"
+         id="path6188"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6190"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 30.7236,-28.568 -56.2553,-1.9448 z"
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         id="path6192"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         r="3.4149537"
+         cy="1110.7632"
+         cx="1323.2217"
+         id="circle6194"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6196"
+         cx="-243.80705"
+         cy="1707.799"
+         r="1.3444184"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6198"
+         cx="-1683.2107"
+         cy="-167.0323"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6200"
+         cx="-1659.0599"
+         cy="-150.45973"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6202"
+         cx="-1667.7646"
+         cy="-119.99889"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6204"
+         cx="-1715.0808"
+         cy="-97.589005"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6206"
+         cx="-1714.2416"
+         cy="-81.881058"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6208"
+         cx="-1702.2705"
+         cy="-62.438557"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6210"
+         cx="-1721.6875"
+         cy="-27.858278"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6212"
+         cx="-1745.9703"
+         cy="-15.919634"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6214"
+         cx="-1775.2118"
+         cy="-30.401201"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6216"
+         cx="-1796.7987"
+         cy="-59.589283"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6218"
+         cx="-1790.3241"
+         cy="-100.80876"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6220"
+         cx="-1757.8234"
+         cy="-132.2317"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6222"
+         cx="-1716.0105"
+         cy="-126.22539"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6224"
+         cx="-1726.8965"
+         cy="-52.155079"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path6226"
+         d="m 1268.598,1161.2435 48.1383,-3.6827 56.2553,1.9448"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6228"
+         cx="-1750.2383"
+         cy="-93.176483"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1323.2957,1110.8518 -26.5381,-7.5568 -1.8331,22.5857 z"
+         id="path6261"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5497-2-0-0"
+         cx="1297.5366"
+         cy="1103.6395"
+         r="3.4149537" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2462225px;line-height:1.71084261px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28115556"
+       x="1287.4521"
+       y="1307.3912"
+       id="text6257"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72"><tspan
+         sodipodi:role="line"
+         id="tspan6255"
+         x="1287.4521"
+         y="1307.3912"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2462225px;font-family:'Dutch801 Rm BT';-inkscape-font-specification:'Dutch801 Rm BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.28115556">Trimmed</tspan></text>
+    <g
+       id="g6359"
+       transform="translate(-196.65347,253.35146)"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path6311"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 z"
+         style="opacity:0.353;fill:#ffd42a;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 30.7236,-28.568 -56.2553,-1.9448 z"
+         id="path6313"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path6315"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6317"
+         cx="1323.2217"
+         cy="1110.7632"
+         r="3.4149537" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         r="1.3444184"
+         cy="1707.799"
+         cx="-243.80705"
+         id="circle6319"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-167.0323"
+         cx="-1683.2107"
+         id="circle6321"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-150.45973"
+         cx="-1659.0599"
+         id="circle6323"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-119.99889"
+         cx="-1667.7646"
+         id="circle6325"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-97.589005"
+         cx="-1715.0808"
+         id="circle6327"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-81.881058"
+         cx="-1714.2416"
+         id="circle6329"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-62.438557"
+         cx="-1702.2705"
+         id="circle6331"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-27.858278"
+         cx="-1721.6875"
+         id="circle6333"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-15.919634"
+         cx="-1745.9703"
+         id="circle6335"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-30.401201"
+         cx="-1775.2118"
+         id="circle6337"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-59.589283"
+         cx="-1796.7987"
+         id="circle6339"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-100.80876"
+         cx="-1790.3241"
+         id="circle6341"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-132.2317"
+         cx="-1757.8234"
+         id="circle6343"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-126.22539"
+         cx="-1716.0105"
+         id="circle6345"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-52.155079"
+         cx="-1726.8965"
+         id="circle6347"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1268.598,1161.2435 48.1383,-3.6827 56.2553,1.9448"
+         id="path6349"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-93.176483"
+         cx="-1750.2383"
+         id="circle6351"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6357"
+         d="m 1323.2957,1110.8518 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 z"
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5497-2-0-2"
+         cx="1295.3984"
+         cy="1126.3574"
+         r="3.4149537" />
+    </g>
+    <g
+       transform="translate(-4.6415652,253.35146)"
+       id="g6409"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         style="opacity:0.353;fill:#ffd42a;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 z"
+         id="path6361"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6363"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 30.7236,-28.568 -56.2553,-1.9448 z"
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         id="path6365"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         r="3.4149537"
+         cy="1110.7632"
+         cx="1323.2217"
+         id="circle6367"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6369"
+         cx="-243.80705"
+         cy="1707.799"
+         r="1.3444184"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6371"
+         cx="-1683.2107"
+         cy="-167.0323"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6373"
+         cx="-1659.0599"
+         cy="-150.45973"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6375"
+         cx="-1667.7646"
+         cy="-119.99889"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6377"
+         cx="-1715.0808"
+         cy="-97.589005"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6379"
+         cx="-1714.2416"
+         cy="-81.881058"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6381"
+         cx="-1702.2705"
+         cy="-62.438557"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6383"
+         cx="-1721.6875"
+         cy="-27.858278"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6385"
+         cx="-1745.9703"
+         cy="-15.919634"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6387"
+         cx="-1775.2118"
+         cy="-30.401201"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6389"
+         cx="-1796.7987"
+         cy="-59.589283"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6391"
+         cx="-1790.3241"
+         cy="-100.80876"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6393"
+         cx="-1757.8234"
+         cy="-132.2317"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6395"
+         cx="-1716.0105"
+         cy="-126.22539"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6397"
+         cx="-1726.8965"
+         cy="-52.155079"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path6399"
+         d="m 1268.598,1161.2435 48.1383,-3.6827 56.2553,1.9448"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6401"
+         cx="-1750.2383"
+         cy="-93.176483"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1323.2957,1110.8518 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 56.2553,1.9448 z"
+         id="path6407"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5497-2-0-21"
+         cx="1316.5969"
+         cy="1157.1664"
+         r="3.4149537" />
+    </g>
+    <g
+       id="g6459"
+       transform="translate(182.07867,253.35146)"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path6411"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 z"
+         style="opacity:0.353;fill:#ffd42a;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 30.7236,-28.568 -56.2553,-1.9448 z"
+         id="path6413"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path6415"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6417"
+         cx="1323.2217"
+         cy="1110.7632"
+         r="3.4149537" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         r="1.3444184"
+         cy="1707.799"
+         cx="-243.80705"
+         id="circle6419"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-167.0323"
+         cx="-1683.2107"
+         id="circle6421"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-150.45973"
+         cx="-1659.0599"
+         id="circle6423"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-119.99889"
+         cx="-1667.7646"
+         id="circle6425"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-97.589005"
+         cx="-1715.0808"
+         id="circle6427"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-81.881058"
+         cx="-1714.2416"
+         id="circle6429"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-62.438557"
+         cx="-1702.2705"
+         id="circle6431"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-27.858278"
+         cx="-1721.6875"
+         id="circle6433"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-15.919634"
+         cx="-1745.9703"
+         id="circle6435"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-30.401201"
+         cx="-1775.2118"
+         id="circle6437"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-59.589283"
+         cx="-1796.7987"
+         id="circle6439"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-100.80876"
+         cx="-1790.3241"
+         id="circle6441"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-132.2317"
+         cx="-1757.8234"
+         id="circle6443"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-126.22539"
+         cx="-1716.0105"
+         id="circle6445"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-52.155079"
+         cx="-1726.8965"
+         id="circle6447"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1268.598,1161.2435 48.1383,-3.6827 56.2553,1.9448"
+         id="path6449"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-93.176483"
+         cx="-1750.2383"
+         id="circle6451"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path6457"
+         d="m 1323.2957,1110.8518 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 56.2553,1.9448 1.2733,-37.1847 z"
+         style="opacity:0.353;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5497-2-0-6"
+         cx="1373.5636"
+         cy="1159.8998"
+         r="3.4149537" />
+    </g>
+    <g
+       transform="translate(-198.92133,381.86336)"
+       id="g6509"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 z"
+         id="path6461"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6463"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 30.7236,-28.568 -56.2553,-1.9448 z"
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         id="path6465"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6469"
+         cx="-243.80705"
+         cy="1707.799"
+         r="1.3444184"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6471"
+         cx="-1683.2107"
+         cy="-167.0323"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6473"
+         cx="-1659.0599"
+         cy="-150.45973"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6475"
+         cx="-1667.7646"
+         cy="-119.99889"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6477"
+         cx="-1715.0808"
+         cy="-97.589005"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6479"
+         cx="-1714.2416"
+         cy="-81.881058"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6481"
+         cx="-1702.2705"
+         cy="-62.438557"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6483"
+         cx="-1721.6875"
+         cy="-27.858278"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6485"
+         cx="-1745.9703"
+         cy="-15.919634"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6487"
+         cx="-1775.2118"
+         cy="-30.401201"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6489"
+         cx="-1796.7987"
+         cy="-59.589283"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6491"
+         cx="-1790.3241"
+         cy="-100.80876"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6493"
+         cx="-1757.8234"
+         cy="-132.2317"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6495"
+         cx="-1716.0105"
+         cy="-126.22539"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path6499"
+         d="m 1268.598,1161.2435 48.1383,-3.6827 56.2553,1.9448"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6501"
+         cx="-1750.2383"
+         cy="-93.176483"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <path
+         style="opacity:0.353;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1323.2957,1110.8518 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 56.2553,1.9448 z"
+         id="path6507"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1323.2957,1110.8518 49.6959,48.6538"
+         id="path6511"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6483-3"
+         cx="-1726.9934"
+         cy="-52.463741"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5497-2-0-00"
+         cx="1373.3036"
+         cy="1159.6772"
+         r="3.4149537" />
+      <circle
+         r="3.4149537"
+         cy="1111.0342"
+         cx="1323.5916"
+         id="circle6367-8-4"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g6572"
+       transform="translate(-6.9094253,381.86336)"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6528"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 z"
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 30.7236,-28.568 -56.2553,-1.9448 z"
+         id="path6530"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path6532"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         r="1.3444184"
+         cy="1707.799"
+         cx="-243.80705"
+         id="circle6534"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-167.0323"
+         cx="-1683.2107"
+         id="circle6536"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-150.45973"
+         cx="-1659.0599"
+         id="circle6538"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-119.99889"
+         cx="-1667.7646"
+         id="circle6540"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-97.589005"
+         cx="-1715.0808"
+         id="circle6542"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-81.881058"
+         cx="-1714.2416"
+         id="circle6544"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-62.438557"
+         cx="-1702.2705"
+         id="circle6546"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-27.858278"
+         cx="-1721.6875"
+         id="circle6548"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-15.919634"
+         cx="-1745.9703"
+         id="circle6550"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-30.401201"
+         cx="-1775.2118"
+         id="circle6552"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-59.589283"
+         cx="-1796.7987"
+         id="circle6554"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-100.80876"
+         cx="-1790.3241"
+         id="circle6556"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-132.2317"
+         cx="-1757.8234"
+         id="circle6558"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-126.22539"
+         cx="-1716.0105"
+         id="circle6560"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1268.598,1161.2435 48.1383,-3.6827 56.2553,1.9448"
+         id="path6562"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-93.176483"
+         cx="-1750.2383"
+         id="circle6564"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6566"
+         d="m 1323.2957,1110.8518 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 56.2553,1.9448 z"
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6568"
+         d="m 1323.2957,1110.8518 49.6959,48.6538"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-52.463741"
+         cx="-1726.9934"
+         id="circle6570"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="3.4149537"
+         cy="1162.0826"
+         cx="1268.9562"
+         id="circle6367-8"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1316.7363,1157.5608 -31.5509,-18.8698 -16.5874,22.5525 z"
+         id="path6844"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5497-2-0-00-6"
+         cx="1316.5302"
+         cy="1157.6727"
+         r="3.4149537" />
+    </g>
+    <g
+       transform="translate(181.32272,381.86336)"
+       id="g6896"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 z"
+         id="path6846"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6848"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 30.7236,-28.568 -56.2553,-1.9448 z"
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         id="path6850"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6852"
+         cx="-243.80705"
+         cy="1707.799"
+         r="1.3444184"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6854"
+         cx="-1683.2107"
+         cy="-167.0323"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6856"
+         cx="-1659.0599"
+         cy="-150.45973"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6858"
+         cx="-1667.7646"
+         cy="-119.99889"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6860"
+         cx="-1715.0808"
+         cy="-97.589005"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6862"
+         cx="-1714.2416"
+         cy="-81.881058"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6864"
+         cx="-1702.2705"
+         cy="-62.438557"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6866"
+         cx="-1721.6875"
+         cy="-27.858278"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6868"
+         cx="-1745.9703"
+         cy="-15.919634"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6870"
+         cx="-1775.2118"
+         cy="-30.401201"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6872"
+         cx="-1796.7987"
+         cy="-59.589283"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6874"
+         cx="-1790.3241"
+         cy="-100.80876"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6876"
+         cx="-1757.8234"
+         cy="-132.2317"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6878"
+         cx="-1716.0105"
+         cy="-126.22539"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path6880"
+         d="m 1268.598,1161.2435 48.1383,-3.6827 56.2553,1.9448"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6882"
+         cx="-1750.2383"
+         cy="-93.176483"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1323.2957,1110.8518 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 56.2553,1.9448 z"
+         id="path6884"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1323.2957,1110.8518 49.6959,48.6538"
+         id="path6886"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6888"
+         cx="-1726.9934"
+         cy="-52.463741"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6892"
+         cx="1268.9562"
+         cy="1162.0826"
+         r="3.4149537" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path6894"
+         d="m 1316.7363,1157.5608 -31.5509,-18.8698 -50.4744,-11.6784 33.887,34.2309 z"
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5497-2-0-00-2"
+         cx="1285.8864"
+         cy="1139.118"
+         r="3.4149537" />
+    </g>
+    <g
+       id="g6971"
+       transform="translate(-199.67728,520.9586)"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6919"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 z"
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 30.7236,-28.568 -56.2553,-1.9448 z"
+         id="path6921"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path6923"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         r="1.3444184"
+         cy="1707.799"
+         cx="-243.80705"
+         id="circle6925"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-167.0323"
+         cx="-1683.2107"
+         id="circle6927"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-150.45973"
+         cx="-1659.0599"
+         id="circle6929"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-119.99889"
+         cx="-1667.7646"
+         id="circle6931"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-97.589005"
+         cx="-1715.0808"
+         id="circle6933"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-81.881058"
+         cx="-1714.2416"
+         id="circle6935"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-62.438557"
+         cx="-1702.2705"
+         id="circle6937"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-27.858278"
+         cx="-1721.6875"
+         id="circle6939"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-15.919634"
+         cx="-1745.9703"
+         id="circle6941"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-30.401201"
+         cx="-1775.2118"
+         id="circle6943"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-59.589283"
+         cx="-1796.7987"
+         id="circle6945"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-100.80876"
+         cx="-1790.3241"
+         id="circle6947"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-132.2317"
+         cx="-1757.8234"
+         id="circle6949"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-126.22539"
+         cx="-1716.0105"
+         id="circle6951"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1268.598,1161.2435 48.1383,-3.6827 56.2553,1.9448"
+         id="path6953"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-93.176483"
+         cx="-1750.2383"
+         id="circle6955"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6957"
+         d="m 1323.2957,1110.8518 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 56.2553,1.9448 z"
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6959"
+         d="m 1323.2957,1110.8518 49.6959,48.6538"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-52.463741"
+         cx="-1726.9934"
+         id="circle6961"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="3.4149537"
+         cy="1162.0826"
+         cx="1268.9562"
+         id="circle6965"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1316.7363,1157.5608 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 59.822,15.5937 z"
+         id="path6967"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <circle
+         r="3.4149537"
+         cy="1127.0909"
+         cx="1235.1051"
+         id="circle6969"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(-9.9159155,520.9586)"
+       id="g7025"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 z"
+         id="path6973"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path6975"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 30.7236,-28.568 -56.2553,-1.9448 z"
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         id="path6977"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6979"
+         cx="-243.80705"
+         cy="1707.799"
+         r="1.3444184"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6981"
+         cx="-1683.2107"
+         cy="-167.0323"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6983"
+         cx="-1659.0599"
+         cy="-150.45973"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6985"
+         cx="-1667.7646"
+         cy="-119.99889"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6987"
+         cx="-1715.0808"
+         cy="-97.589005"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6989"
+         cx="-1714.2416"
+         cy="-81.881058"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6991"
+         cx="-1702.2705"
+         cy="-62.438557"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6993"
+         cx="-1721.6875"
+         cy="-27.858278"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6995"
+         cx="-1745.9703"
+         cy="-15.919634"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6997"
+         cx="-1775.2118"
+         cy="-30.401201"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle6999"
+         cx="-1796.7987"
+         cy="-59.589283"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle7001"
+         cx="-1790.3241"
+         cy="-100.80876"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle7003"
+         cx="-1757.8234"
+         cy="-132.2317"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle7005"
+         cx="-1716.0105"
+         cy="-126.22539"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path7007"
+         d="m 1268.598,1161.2435 48.1383,-3.6827 56.2553,1.9448"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle7009"
+         cx="-1750.2383"
+         cy="-93.176483"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1323.2957,1110.8518 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 56.2553,1.9448 z"
+         id="path7011"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1323.2957,1110.8518 49.6959,48.6538"
+         id="path7013"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <circle
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle7015"
+         cx="-1726.9934"
+         cy="-52.463741"
+         r="1.3444184"
+         transform="rotate(-141.72422)"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle7019"
+         cx="1268.9562"
+         cy="1162.0826"
+         r="3.4149537" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path7021"
+         d="m 1316.7363,1157.5608 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 50.9392,-12.3646 z"
+         style="opacity:0.353;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle7023"
+         cx="1209.1799"
+         cy="1145.7998"
+         r="3.4149537" />
+    </g>
+    <g
+       id="g7079"
+       transform="translate(177.17275,520.9586)"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path7071"
+         d="m 1208.776,1145.6498 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 z"
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1316.7363,1157.5608 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 59.822,15.5937 z"
+         id="path7075"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7027"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 z"
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="opacity:0.353;fill:#2ad4ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1268.598,1161.2435 29.1578,30.873 44.5122,-4.0429 30.7236,-28.568 -56.2553,-1.9448 z"
+         id="path7029"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path7031"
+         d="m 1372.9916,1159.5056 1.2733,-37.1847 -13.7321,-27.9333 -26.5877,-5.8516 -10.6494,22.3158 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 -31.5509,-18.8698 -50.4744,-11.6784 -25.935,18.6372 8.8828,27.9583 31.5778,15.9393 19.3614,-28.3039 29.1578,30.873 44.5122,-4.0429 z"
+         style="fill:none;stroke:#000000;stroke-width:0.15039329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="matrix(-0.78503829,0.61944724,0.61944724,0.78503829,0,0)"
+         r="1.3444184"
+         cy="1707.799"
+         cx="-243.80705"
+         id="circle7033"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-167.0323"
+         cx="-1683.2107"
+         id="circle7035"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-150.45973"
+         cx="-1659.0599"
+         id="circle7037"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-119.99889"
+         cx="-1667.7646"
+         id="circle7039"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-97.589005"
+         cx="-1715.0808"
+         id="circle7041"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-81.881058"
+         cx="-1714.2416"
+         id="circle7043"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-62.438557"
+         cx="-1702.2705"
+         id="circle7045"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-27.858278"
+         cx="-1721.6875"
+         id="circle7047"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-15.919634"
+         cx="-1745.9703"
+         id="circle7049"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-30.401201"
+         cx="-1775.2118"
+         id="circle7051"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-59.589283"
+         cx="-1796.7987"
+         id="circle7053"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-100.80876"
+         cx="-1790.3241"
+         id="circle7055"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-132.2317"
+         cx="-1757.8234"
+         id="circle7057"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-126.22539"
+         cx="-1716.0105"
+         id="circle7059"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1208.776,1145.6498 59.822,15.5937 48.1383,-3.6827 56.2553,1.9448"
+         id="path7061"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-93.176483"
+         cx="-1750.2383"
+         id="circle7063"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path7065"
+         d="m 1323.2957,1110.8518 -26.5381,-7.5568 -1.8331,22.5857 21.8118,31.6801 56.2553,1.9448 z"
+         style="opacity:0.353;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path7067"
+         d="m 1323.2957,1110.8518 49.6959,48.6538"
+         style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         inkscape:export-filename="C:\Users\Aboud\Desktop\notanear.png"
+         transform="rotate(-141.72422)"
+         r="1.3444184"
+         cy="-52.463741"
+         cx="-1726.9934"
+         id="circle7069"
+         style="opacity:1;fill:#00d4aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34675804;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="3.4149537"
+         cy="1162.0826"
+         cx="1268.9562"
+         id="circle7073"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ccff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="3.4149537"
+         cy="1145.7998"
+         cx="1209.1799"
+         id="circle7077"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.60899925px;line-height:1.4617784px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24022494"
+       x="1303.4559"
+       y="1265.0171"
+       id="text6257-6"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72"><tspan
+         sodipodi:role="line"
+         x="1303.4559"
+         y="1265.0171"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.60899925px;font-family:'Dutch801 Rm BT';-inkscape-font-specification:'Dutch801 Rm BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24022494"
+         id="tspan7135">Recursion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5646286px;line-height:1.60715437px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26411569"
+       x="1089.1913"
+       y="1302.8597"
+       id="text7141"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72"><tspan
+         sodipodi:role="line"
+         id="tspan7139"
+         x="1089.1913"
+         y="1302.8597"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5646286px;font-family:'Dutch801 Rm BT';-inkscape-font-specification:'Dutch801 Rm BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26411569">Vertex inside</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.52073765px;line-height:1.60047758px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26301843"
+       x="1490.6246"
+       y="1387.4594"
+       id="text7141-1"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72"><tspan
+         sodipodi:role="line"
+         id="tspan7139-1"
+         x="1490.6246"
+         y="1387.4594"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.52073765px;font-family:'Dutch801 Rm BT';-inkscape-font-specification:'Dutch801 Rm BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26301843">Angle &gt; 180°</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1517.7525,1367.5714 c -1.4792,5.4492 -6.4606,9.4568 -12.3781,9.4568 -7.0831,0 -12.825,-5.7419 -12.825,-12.825 0,-1.0056 0.1157,-1.9842 0.3346,-2.9231"
+       id="path7163"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.77264881px;line-height:1.48667359px;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24431618"
+       x="1209.7839"
+       y="1667.7446"
+       id="text7141-1-3"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72"><tspan
+         sodipodi:role="line"
+         id="tspan7139-1-7"
+         x="1209.7839"
+         y="1667.7446"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.77264881px;font-family:'Dutch801 Rm BT';-inkscape-font-specification:'Dutch801 Rm BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24431618">Angle &gt; 180°</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1245.3415,1684.8839 c -0.7901,-5.5907 2.2068,-11.2383 7.6446,-13.5724 6.5086,-2.7937 14.0498,0.2177 16.8437,6.7267 0.3966,0.9241 0.6763,1.8688 0.8455,2.818"
+       id="path7163-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
+  </g>
+</svg>
